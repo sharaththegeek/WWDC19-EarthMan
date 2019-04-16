@@ -1,4 +1,4 @@
-# WWDC19-EarthMan
+# WWDC19-EarthMan [Rejected]
 
 EarthMan is my submission for WWDC 2019. 
 
