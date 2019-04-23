@@ -1,5 +1,7 @@
 # WWDC19-EarthMan [Rejected]
 
+YouTube Link: https://www.youtube.com/watch?v=UHCQzddMahU
+
 EarthMan is my submission for WWDC 2019. 
 
 Frameworks used - UIKit, AVFoundation, PlaygroundSupport
